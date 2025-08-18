@@ -32,7 +32,6 @@ If you have any questions about me or want to collaborate with me, please feel f
 ======
 * Language & Representation Modeling Lab (June 2024 - Aug. 2025)
   * Research Intern
-  * Advisor: Hyunsoo Cho
   * Hallucination Detection, Decoding Strategy
 * Euron: Deep Learning Club (Mar. 2024 - Aug. 2024)
   * Team Member
