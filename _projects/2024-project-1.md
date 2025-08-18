@@ -1,6 +1,5 @@
 ---
 title: 'Minesweeper Implementation using Deep Q-Network (DQN)'
-collection: projects
 permalink: /projects/2024-project-1/
 ---
 
