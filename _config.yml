@@ -228,7 +228,7 @@ collections:
   #   permalink: /:collection/:path/
   projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects/:path/
   talks:
     output: true
     permalink: /:collection/:path/
