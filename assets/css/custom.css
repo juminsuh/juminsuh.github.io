@@ -3,3 +3,11 @@
   height: 200px;  /* 비율 유지하려면 이건 생략 가능 */
   border-radius: 50%; /* 원형 유지 (선택사항) */
 }
+
+
+/* 네비게이션 오른쪽 정렬 */
+.site-nav .page-link:last-child,
+.site-nav .page-link:nth-last-child(2) {
+  margin-left: auto;   /* 자동 여백 → 오른쪽으로 밀림 */
+}
+
