@@ -24,7 +24,7 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 📄 Publications
 ======
-[W.1] **Minsuh Joo**, Hyunsoo Cho (2025). Cleanse: Uncertainty Estimation Approach Using Clustering-based Semantic Consistency in LLMs. In _ACL 2025 Workshop (oral) - GEM2 (Generation, Evaluation & Metrics)_ [[slides]](http://juminsuh.github.io/files/slide_Cleanse.pdf) [[pdf]](http://juminsuh.github.io/files/37_Cleanse_Uncertainty_Estimat.pdf) [[arxiv]](https://arxiv.org/abs/2507.14649) [[code]] (https://github.com/juminsuh/Cleanse)
+[W.1] **Minsuh Joo**, Hyunsoo Cho (2025). Cleanse: Uncertainty Estimation Approach Using Clustering-based Semantic Consistency in LLMs. In _ACL 2025 Workshop (oral) - GEM2 (Generation, Evaluation & Metrics)_ [[slides]](http://juminsuh.github.io/files/slide_Cleanse.pdf) [[pdf]](http://juminsuh.github.io/files/37_Cleanse_Uncertainty_Estimat.pdf) [[arxiv]](https://arxiv.org/abs/2507.14649) [[code]](https://github.com/juminsuh/Cleanse)
 
 [B.1] Yoonseo Chung, Jeonghyun Kim, MiYeon Kim, **Minsuh Joo**, Hyunsoo  Cho (2025). Foundations of LLMs and Financial Applications. Publisher: _Finance and Large Language Models, Springer Nature_, ISBN: 978-981-96-5832-9.
 
