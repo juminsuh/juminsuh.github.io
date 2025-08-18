@@ -1,7 +1,7 @@
 ---
 title: 'Minesweeper Implementation using Deep Q-Network (DQN)'
 collection: projects
-permalink: /projects/2025-08-18-project-1/
+permalink: /projects/2024-project-1/
 ---
 
 [[Code]](https://github.com/juminsuh/24-1-MineMasters-01)
