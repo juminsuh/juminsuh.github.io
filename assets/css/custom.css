@@ -1,0 +1,5 @@
+.author__avatar img {
+  width: 200px;   /* 원하는 크기로 변경 */
+  height: 200px;  /* 비율 유지하려면 이건 생략 가능 */
+  border-radius: 50%; /* 원형 유지 (선택사항) */
+}
