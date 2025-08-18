@@ -15,7 +15,15 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 Education
 ======
-Ewha Womans 
+---
+title: "Ewha Womans University"
+collection: teaching
+type: "B.S"
+date: Mar. 2023 - Mar. 2027
+location: "Seoul, South Korea"
+---
+
+GPA: 4.29/4.3
 
 
 Getting started
