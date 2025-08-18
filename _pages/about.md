@@ -15,7 +15,8 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 📚 Education
 ======
-* B.S. in Ewha Womans University (Mar. 2023 - Mar. 2027)
+* Ewha Womans University (Mar. 2023 - Mar. 2027)
+  * B.S. in Artificial Intelligence
 
 
 
