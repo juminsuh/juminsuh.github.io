@@ -7,13 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am an undergraduate student at Ewha Womans University. My current research interests lie in the **evaluation of large language models (LLMs)**, with a particular focus on hallucination detection. I am also interested in developing practical AI applications using NLP technologies such as **agents** and **retrieval-augmented generation (RAG)**.
+Hello, I am an undergraduate student at Ewha Womans University. My current research interests lie in the **evaluation of LLMs**, with a particular focus on **hallucination detection**. I am also interested in developing practical AI applications using NLP technologies such as **agents** and **RAG**.
 
 If you have any questions about me or want to collaborate with me, please feel free to contact me via [email](mailto:judyjoo21@ewha.ac.kr) or [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/minsuh-joo-b77a30377/)). 
 
+
+
 Education
 ======
-dd
+Ewha Womans 
+
 
 Getting started
 ======
