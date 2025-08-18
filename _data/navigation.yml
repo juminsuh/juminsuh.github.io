@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_Minsuh_Joo.pdf
+    url: http://juminsuh.github.io/files/CV_Minsuh_Joo.pdf
     
   # - title: "CV"
   #   url: /cv-json/
