@@ -1,5 +1,14 @@
+---
+permalink: /
+title: Minsuh Joo
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-👋 About Me
+
+About Me
 ======
 Hello, I am an undergraduate student at Ewha Womans University. My current research interest is the **evaluation of LLMs**, with a particular focus on **hallucination detection**. I am also interested in developing practical AI applications using NLP technologies such as **agents** and **RAG**.
 
