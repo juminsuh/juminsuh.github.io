@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-[W.1] **Minsuh Joo**, Hyunsoo Cho. 2025. Cleanse: Uncertainty Estimation Approach Using Clustering-based Semantic Consistency in LLMs. In ACL 2025 Workshop (oral) - GEM2 (Generation, Evaluation & Metrics) [[slides]](http://juminsuh.github.io/files/slide_Cleanse.pdf) [[pdf]](http://juminsuh.github.io/files/37_Cleanse_Uncertainty_Estimat.pdf) [[arxiv]](https://arxiv.org/abs/2507.14649)
+[W.1] **Minsuh Joo**, Hyunsoo Cho (2025). Cleanse: Uncertainty Estimation Approach Using Clustering-based Semantic Consistency in LLMs. In ACL 2025 Workshop (oral) - GEM2 (Generation, Evaluation & Metrics) [[slides]](http://juminsuh.github.io/files/slide_Cleanse.pdf) [[pdf]](http://juminsuh.github.io/files/37_Cleanse_Uncertainty_Estimat.pdf) [[arxiv]](https://arxiv.org/abs/2507.14649)
 
   
 Skills
