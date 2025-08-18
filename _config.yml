@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-# title                    : "Minsuh Joo"
+title                    : "SandBox"
 title_separator          : "-"
 name                     : &name "Minsuh Joo"
 description              : &description "personal description"
