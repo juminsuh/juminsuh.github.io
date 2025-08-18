@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Minsuh Joo
+title: "Minsuh Joo"
 author_profile: true
 redirect_from: 
   - /about/
