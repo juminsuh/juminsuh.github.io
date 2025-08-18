@@ -10,24 +10,7 @@
 main:
   - title: "Project"
     url: /projects/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
   - title: "CV"
     url: http://juminsuh.github.io/files/CV_Minsuh_Joo.pdf
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
