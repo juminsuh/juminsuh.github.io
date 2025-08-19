@@ -1,11 +1,36 @@
 ---
-layout: archive
+layout: default
 title: "Projects"
 permalink: /projects/
-auto_profile: true
 ---
 
-{% include base_path %}
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% assign projects = site.projects | sort: "date" | reverse %}
+
+<div class="projects">
+  {% for project in projects %}
+    <article class="project">
+      <h2 class="project-title">{{ project.title }}</h2>
+      {% if project.subtitle %}
+        <p class="project-subtitle">{{ project.subtitle }}</p>
+      {% endif %}
+
+      {% if project.image %}
+        <p class="project-cover">
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
+        </p>
+      {% endif %}
+
+      <div class="project-content">
+        {{ project.content | markdownify }}
+      </div>
+
+      {% if project.tags %}
+        <p class="project-tags">
+          {% for t in project.tags %}<span class="tag">#{{ t }}</span>{% endfor %}
+        </p>
+      {% endif %}
+      <hr>
+    </article>
+  {% endfor %}
+</div>
+
