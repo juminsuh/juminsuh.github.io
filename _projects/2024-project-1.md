@@ -1,6 +1,6 @@
 ---
 title: 'Bank Deposit Subscription Classification Task'
-permalink: /projects/2024-project-3/
+permalink: /projects/2024-project-1/
 ---
 
 
