@@ -51,7 +51,7 @@ If you have any questions about me or want to collaborate with me, please feel f
 * Top Student in Artificial Intelligence Major (2025)
 * Undergraduate Research Opportunities Program (2024)
 * Second Highest GPA Student of the College (2024)
-* Top Student ofthe College (2024)
+* Top Student of the College (2024)
 
 
 
