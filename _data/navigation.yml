@@ -8,6 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Project"
+    url: /projects/
   - title: "CV"
     url: http://juminsuh.github.io/files/CV_Minsuh_Joo.pdf
     
