@@ -1,31 +1,32 @@
 ---
-layout: default
+layout: single
 title: "Projects"
 permalink: /projects/
 ---
 
 {% assign projects = site.projects | sort: "date" | reverse %}
 
-<div class="projects">
+<div class="archive">
   {% for project in projects %}
-    <article class="project">
-      <h2 class="project-title">{{ project.title }}</h2>
+    <article class="archive__item">
+      <h2 class="archive__item-title">{{ project.title }}</h2>
+
       {% if project.subtitle %}
-        <p class="project-subtitle">{{ project.subtitle }}</p>
+        <p class="archive__item-excerpt">{{ project.subtitle }}</p>
       {% endif %}
 
       {% if project.image %}
-        <p class="project-cover">
+        <p class="archive__item-teaser">
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}">
         </p>
       {% endif %}
 
-      <div class="project-content">
-        {{ project.content | markdownify }}
+      <div class="archive__item-body">
+        {{ project.content }}      <!-- 이미 렌더된 HTML이므로 markdownify 불필요 -->
       </div>
 
       {% if project.tags %}
-        <p class="project-tags">
+        <p class="page__taxonomy">
           {% for t in project.tags %}<span class="tag">#{{ t }}</span>{% endfor %}
         </p>
       {% endif %}
@@ -33,4 +34,3 @@ permalink: /projects/
     </article>
   {% endfor %}
 </div>
-
