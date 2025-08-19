@@ -1,6 +1,6 @@
 ---
 title: 'Minesweeper Implementation using Deep Q-Network (DQN)'
-permalink: /projects/2024-project-1/
+permalink: /projects/2024-project-3/
 ---
 
 
