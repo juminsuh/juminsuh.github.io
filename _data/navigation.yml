@@ -11,8 +11,8 @@ main:
   # - title: "Projects"
   #   url: /projects/
     
-  # - title: "CV"
-  #   url: http://juminsuh.github.io/files/CV_Minsuh_Joo.pdf
+  - title: "CV"
+    url: http://juminsuh.github.io/files/CV_MinsuhJoo.pdf
 
   - title: "Tech Blog"
     url: https://minair.tistory.com/
