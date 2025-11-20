@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hal.jpeg"
+  avatar           : "IMG_1915.JPG"
   name             : "Minsuh Joo"
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher"
@@ -227,9 +227,9 @@ collections:
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /projects/:name/
+  # projects:
+  #   output: true
+  #   permalink: /projects/:name/
   talks:
     output: true
     permalink: /:collection/:path/
