@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am an undergraduate student at Ewha Womans University. My current research interest is the **evaluation of LLMs**, with a particular focus on **hallucination detection**. I am also interested in developing practical AI applications using NLP technologies such as **agents** and **RAG**.
+Hello, I am an undergraduate student at Ewha Womans University. My current research interest is the **evaluation of LLMs**, with a particular focus on **hallucination detection**. 
 
 If you have any questions about me or want to collaborate with me, please feel free to contact me via [email](mailto:judyjoo21@ewha.ac.kr) or [LinkedIn](https://www.linkedin.com/in/minsuh-joo-b77a30377/). 
 
@@ -31,16 +31,18 @@ If you have any questions about me or want to collaborate with me, please feel f
 👩‍💻 Experience
 ======
 * Language & Representation Modeling Lab (June 2024 - Aug. 2025)
-  * Research Intern
+  * Research intern
   * Hallucination Detection, Decoding Strategy
+* Prometheus: AI Club (Sep. 2025 - Present)
+  * Team member 
 * Euron: Deep Learning Club (Mar. 2024 - Aug. 2024)
-  * Team Member
+  * Team member
   * Deep learning study & NLP project (Mar. 2024 - July 2024)
 * KanghwaSisters: Reinforcement Learning Club
-  * Team Member
+  * Team member
   * Reinforcement learning study & DQN project
 * Student Council of Department of Artificial Intelligence (Mar. 2023 - Dec. 2024)
-  * Planning Committee Member   
+  * Planning committee member   
 
 
 
