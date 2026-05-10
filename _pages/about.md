@@ -33,7 +33,7 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 👩‍💻 Experience
 ======
-* Language & Representation Modeling Lab (June 2024 - Present)
+* AGI Lab (June 2024 - Present)
   * Research intern
   * LLM Evaluation, Hallucination Detection, Decoding Strategy
 * Prometheus: AI Club (Sep. 2025 - Present)
