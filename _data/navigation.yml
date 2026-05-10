@@ -12,7 +12,7 @@ main:
   #   url: /projects/
     
   - title: "CV"
-    url: http://juminsuh.github.io/files/CV_MinsuhJoo.pdf
+    url: file:///Users/minair/Downloads/Minsuh_Joo_CV.pdf
 
   - title: "Tech Blog"
     url: https://minair.tistory.com/
