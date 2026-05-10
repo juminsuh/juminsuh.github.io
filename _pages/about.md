@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am an undergraduate student at Ewha Womans University. My current research interest is the **evaluation of LLMs**, with a particular focus on **hallucination detection**. 
+Hello, I am an undergraduate student at Ewha Womans University. My current research interest is the **evaluation of LLM**. 
 
-I am currently conducting research on constructing a benchmark for human-face ID preservation and proposing a new evaluation metric that leverages multiple-choice question (MCQ) framework and MLLMs.
+I am currently conducting research on constructing a benchmark and framework to diagnose and interpret the effect of diverse factuality enhancement approaches of LLM.  
 
 If you have any questions about me or want to collaborate with me, please feel free to contact me via [email](mailto:judyjoo21@ewha.ac.kr) or [LinkedIn](https://www.linkedin.com/in/minsuh-joo-b77a30377/). 
 
@@ -19,6 +19,7 @@ If you have any questions about me or want to collaborate with me, please feel f
 ======
 * Ewha Womans University (Mar. 2023 - Mar. 2027)
   * B.S. in Artificial Intelligence
+  * GPA: 4.29/4.3
 
 
 
@@ -32,9 +33,9 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 👩‍💻 Experience
 ======
-* Language & Representation Modeling Lab (June 2024 - Aug. 2025)
+* Language & Representation Modeling Lab (June 2024 - Present)
   * Research intern
-  * Hallucination Detection, Decoding Strategy
+  * LLM Evaluation, Hallucination Detection, Decoding Strategy
 * Prometheus: AI Club (Sep. 2025 - Present)
   * Team member 
 * Euron: Deep Learning Club (Mar. 2024 - Aug. 2024)
@@ -50,8 +51,10 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 🏆 Honors & Awards
 ======
+* LG Aimers 8th AI Hackathon 3rd Prize: Lightweight EXAONE-4.0 (2026)
 * National Science and Engineering Scholarship (2025)
-  * _Korea Student Aid Foundation (KOSAF)_ 
+  * _Korea Student Aid Foundation (KOSAF)_
+* MIXUP AI Datathon 3rd Prize: Upstage Solar API Prompt Engineering (2025)
 * Top Student in Artificial Intelligence Major (2025)
 * Undergraduate Research Opportunities Program (2024)
 * Second Highest GPA Student of the College (2024)
