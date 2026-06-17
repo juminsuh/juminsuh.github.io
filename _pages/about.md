@@ -29,7 +29,9 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 [B.1] Yoonseo Chung, Jeonghyun Kim, MiYeon Kim, **Minsuh Joo**, Hyunsoo  Cho (2025). Foundations of LLMs and Financial Applications. Publisher: _Finance and Large Language Models, Springer Nature_, ISBN: 978-981-96-5832-9.
 
-
+🔍 Projects
+======
+* Detailed for projects are shown at my [CV](./files/cv.pdf).
 
 👩‍💻 Experience
 ======
