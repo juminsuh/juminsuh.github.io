@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am an undergraduate student at Ewha Womans University. My current research interest is the **evaluation of LLM**. 
+Hello, I am an undergraduate student at Ewha Womans University. My current research interest is the **trustworthiness of AI system, including evaluation and uncertainty estimation.**. 
 
 I am currently conducting research on constructing a benchmark and framework to diagnose and interpret the effect of diverse factuality enhancement approaches of LLM.  
 
@@ -17,7 +17,7 @@ If you have any questions about me or want to collaborate with me, please feel f
 
 📚 Education
 ======
-* Ewha Womans University (Mar. 2023 - Mar. 2027)
+* Ewha Womans University (Mar. 2023 - Present)
   * B.S. in Artificial Intelligence
   * GPA: 4.29/4.3
 
