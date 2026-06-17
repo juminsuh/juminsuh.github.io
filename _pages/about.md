@@ -42,8 +42,8 @@ If you have any questions about me or want to collaborate with me, please feel f
   * Team member 
 * Euron: Deep Learning Club (Mar. 2024 - Aug. 2024)
   * Team member
-  * Deep learning study & NLP project (Mar. 2024 - July 2024)
-* KanghwaSisters: Reinforcement Learning Club
+  * Deep learning study & NLP project 
+* KanghwaSisters: Reinforcement Learning Club (Mar. 2024 - July 2024)
   * Team member
   * Reinforcement learning study & DQN project
 * Student Council of Department of Artificial Intelligence (Mar. 2023 - Dec. 2024)
